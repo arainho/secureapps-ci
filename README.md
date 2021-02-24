@@ -1,6 +1,5 @@
 # SecureApps@CI
-The [SecureApps@CI](https://gitlab.com/secureapps-ci) primary objective is to create a system for incorporating arbitrary safety tests in CI/CD pipelines. 
-The developed code and sample pipeline samples are available on [gitlab.com/secureapps-ci](https://gitlab.com/secureapps-ci).
+The [SecureApps@CI](https://gitlab.com/secureapps-ci) primary objective is to create a system for integrating and orchestrating arbitrary security tests into CI/CD pipelines. The developed code and sample pipeline samples are available on [gitlab.com/secureapps-ci](https://gitlab.com/secureapps-ci).
 
 
 ## The API server
