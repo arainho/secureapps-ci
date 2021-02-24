@@ -1,5 +1,6 @@
 # SecureApps@CI
-[SecureApps@CI](https://gitlab.com/secureapps-ci) is a system to enable Application Security integration on CI/CD Pipelines.
+The [SecureApps@CI](https://gitlab.com/secureapps-ci) primary objective is to create a system for incorporating arbitrary safety tests in CI/CD pipelines. The developed code and sample pipeline samples are available on GitLab.
+
 
 ## The API server
 
